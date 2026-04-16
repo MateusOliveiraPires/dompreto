@@ -8,17 +8,17 @@ const Authors = () => {
     {
       imagem: '/xotecacheado.png',
       link: 'https://open.spotify.com/intl-pt/track/2qynyPHHm8uS6SbvjeYNdG?si=ITUM2Jk7QDihnb7u5voDag&context=spotify%3Aalbum%3A2L0l2psPHrC817OuYBxpnn&nd=1&dlsi=40cdf311069b45e1',
-      titulo: 'Festival 1'
+      titulo: 'Autoral 1'
     },
     {
       imagem: '/meninapequena.png',
       link: 'https://open.spotify.com/intl-pt/track/5aiiUsCR8I9zdYFYKZg6wZ?si=bWk_DjdfQXOqJIrtHuW78w&nd=1&dlsi=e48174f638fd4be3',
-      titulo: 'Festival 2'
+      titulo: 'Autoral 2'
     },
     {
       imagem: '/janeladomundo.png',
       link: 'https://www.youtube.com/watch?v=Ca2Y6PgYnL0&ab_channel=DomPreto',
-      titulo: 'Festival 3'
+      titulo: 'Autoral 3'
     },
    
   ];

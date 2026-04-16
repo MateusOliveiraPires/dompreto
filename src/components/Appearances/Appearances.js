@@ -8,22 +8,22 @@ const Appearances = () => {
     {
       imagem: '/festivalvegmineiro.png',
       link: 'https://soubh.uai.com.br/noticias/variedades/festival-paraiso-veg-reune-gastronomia-e-moda-vegana-no-museu-mineiro/',
-      titulo: 'Clipping 1'
+      titulo: 'Mídia 1'
     },
     {
       imagem: '/festivaljazzeblues.png',
       link: 'https://bhaz.com.br/guia-bhaz/guia-virada-cultural-bh/',
-      titulo: 'Clipping 2'
+      titulo: 'Mídia 2'
     },
     {
       imagem: '/festivaljazzeblues.png',
       link: 'https://instagram.com',
-      titulo: 'Clipping 3'
+      titulo: 'Mídia 3'
     },
     {
       imagem: '/festivaldrafmood.png',
       link: 'https://instagram.com',
-      titulo: 'Clipping 4'
+      titulo: 'Mídia 4'
     }
   ];
   return (
