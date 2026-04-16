@@ -43,7 +43,7 @@ const Contact = () => {
     /><p>@dompretooficial</p>
   </a>
 </div>
-            <p>📧 fvdigitalorcamentos@gmail.com</p>
+            <p>📧 Dompretoband@gmail.com</p>
             <p>📞 (31) 98837-2585</p>
             <p>📍 Minas Gerais, MG</p>
           </div>
