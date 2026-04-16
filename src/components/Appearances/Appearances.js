@@ -8,22 +8,22 @@ const Appearances = () => {
     {
       imagem: '/festivalvegmineiro.png',
       link: 'https://soubh.uai.com.br/noticias/variedades/festival-paraiso-veg-reune-gastronomia-e-moda-vegana-no-museu-mineiro/',
-      titulo: 'Mídia 1'
+      titulo: 'Festival Paraíso Veg'
     },
     {
       imagem: '/festivaljazzeblues.png',
       link: 'https://bhaz.com.br/guia-bhaz/guia-virada-cultural-bh/',
-      titulo: 'Mídia 2'
+      titulo: 'Virada Cultural 2019'
     },
     {
       imagem: '/festivaljazzeblues.png',
       link: 'https://instagram.com',
-      titulo: 'Mídia 3'
+      titulo: 'Festival de Jazz & Blues '
     },
     {
-      imagem: '/festivaldrafmood.png',
+      imagem: '/draftmoodfm2.png',
       link: 'https://instagram.com',
-      titulo: 'Mídia 4'
+      titulo: 'Festival Draft Mood FM - Rio de Janeiro-RJ'
     }
   ];
   return (
@@ -45,7 +45,7 @@ const Appearances = () => {
         </div>
         <div className="appearances-content">
           <h2>APARIÇÕES EM MIDIA</h2>
-          <h3>Dom Preto já teve várias aparições na média também confira</h3>
+          <h3>Dom Preto já teve várias aparições na mídia também confira</h3>
           
           <p>    
               Dom Preto já marcou presença na mídia mineira, com aparições no Caleidoscópio

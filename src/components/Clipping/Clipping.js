@@ -7,22 +7,22 @@ const Clipping = () => {
     {
       imagem: '/festivalvegmineiro.png',
       link: 'https://soubh.uai.com.br/noticias/variedades/festival-paraiso-veg-reune-gastronomia-e-moda-vegana-no-museu-mineiro/',
-      titulo: 'Clipping 1'
+      titulo: 'Festival Paraiso Veg'
     },
     {
-      imagem: '/festivaljazzeblues.png',
+      imagem: '/viradaculturalbhclipping.png',
       link: 'https://bhaz.com.br/guia-bhaz/guia-virada-cultural-bh/',
-      titulo: 'Clipping 2'
+      titulo: 'Virada Cultural'
     },
     {
       imagem: '/festivaljazzeblues.png',
-      link: 'https://instagram.com',
-      titulo: 'Clipping 3'
+      link: '',
+      titulo: 'Festival de Jazz & Blues'
     },
     {
-      imagem: '/festivaldrafmood.png',
-      link: 'https://instagram.com',
-      titulo: 'Clipping 4'
+      imagem: 'festivalbluesnafloresta123.png',
+      link: '',
+      titulo: 'Festival Blues na Floresta'
     }
   ];
 
@@ -46,7 +46,6 @@ const Clipping = () => {
         </div>
         <div className="clipping-content">
           <h2>CLIPPING</h2>
-          <h2>Clipping do artista lançados nos últimos anos</h2>
           <p>    
 
           </p>

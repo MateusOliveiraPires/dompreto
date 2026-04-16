@@ -6,23 +6,33 @@ const Festivals = () => {
     const galeria = [
     {
       imagem: '/viradacultural.png',
-      link: 'https://google.com',
-      titulo: 'Festival 1'
+      link: 'https://culturalizabh.com.br/index.php/2018/05/16/festival-blues-na-floresta/',
+      titulo: 'Festival Blues na Floresta Amadoria'
     },
     {
       imagem: '/festivaltiradentes.png',
-      link: 'https://youtube.com',
-      titulo: 'Festival 2'
+      link: 'https://bhaz.com.br/guia-bhaz/festival-jazz-blues-%20gratuito/',
+      titulo: 'Buena Vista soul,jazz e blues festival'
     },
     {
       imagem: '/festivalveggieroots.png',
-      link: 'https://instagram.com',
-      titulo: 'Festival 3'
+      link: 'https://g1.globo.com/mg/minas-gerais/o-que-fazer-%20em-belo-horizonte/noticia/2019/07/10/virada-%20cultural-de-bh-veja-programacao-completa.ghtml%20https:/bhaz.com.br/guia-bhaz/guia-virada-cultural-%20bh/',
+      titulo: 'Virada Cultural 2019(Palco Acaiaca)'
     },
     {
       imagem: '/festivaldrafmood.png',
-      link: 'https://instagram.com',
-      titulo: 'Festival 4'
+      link: '',
+      titulo: 'Festival Draft Mood FM'
+    },
+    {
+      imagem: '/festivalveggieroots.png',
+      link: 'https://soubh.uai.com.br/noticias/variedades/festival-paraiso-veg-reune-gastronomia-e-moda-vegana-no-museu-mineiro/',
+      titulo: 'Festival vegano Paraiso Veggie'
+    },
+    {
+      imagem: '/festivaltiradentes.png',
+      link: 'https://www.youtube.com/live/iqd5oP0w064?si=dfqoq73xRzSCL8AJ',
+      titulo: 'Festival de Novos Talentos Blues e Jazz Tiradentes'
     }
   ];
   return (
