@@ -31,6 +31,18 @@ const Contact = () => {
         <div className="contact-container">
           <div className="contact-info">
             <h3>Informações</h3>
+            <div className="instagram-info">
+                <a 
+                  href="https://www.instagram.com/dompretooficial" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  >
+                 <img 
+      src="icone-de-midia-social-do-vetor-instagram-7-de-junho-de-2021-banguecoque-tailandia.png" 
+      alt="Nosso Instagram" style={{ width: '50px', height: '50px' }} 
+    /><p>@dompretooficial;</p>
+  </a>
+</div>
             <p>📧 fvdigitalorcamentos@gmail.com</p>
             <p>📞 (31) 98837-2585</p>
             <p>📍 Minas Gerais, MG</p>

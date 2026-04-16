@@ -21,6 +21,12 @@
   font-size: 1.1rem;
 }
 
+.instagram-info {
+  display: flex;
+  align-items: flex-start; /* alinha verticalmente */
+  gap: 20px; /* espaço entre ícone e texto */
+}
+
 .contact-form {
   display: flex;
   flex-direction: column;
