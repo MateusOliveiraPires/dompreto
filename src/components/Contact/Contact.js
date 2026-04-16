@@ -40,7 +40,7 @@ const Contact = () => {
                  <img 
       src="icone-de-midia-social-do-vetor-instagram-7-de-junho-de-2021-banguecoque-tailandia.png" 
       alt="Nosso Instagram" style={{ width: '50px', height: '50px' }} 
-    /><p>@dompretooficial;</p>
+    /><p>@dompretooficial</p>
   </a>
 </div>
             <p>📧 fvdigitalorcamentos@gmail.com</p>
