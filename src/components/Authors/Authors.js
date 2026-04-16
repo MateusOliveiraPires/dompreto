@@ -20,7 +20,11 @@ const Authors = () => {
       link: 'https://www.youtube.com/watch?v=Ca2Y6PgYnL0&ab_channel=DomPreto',
       titulo: 'Janela do Mundo'
     },
-   
+    {
+      imagem: '/viradacultural.png',
+      link: 'https://www.youtube.com/watch?v=AaIL9lShS94&list=RDAaIL9lShS94&start_radio=1',
+      titulo: 'Dom Preto Acústico- Tim Maia pout pourri'
+    } 
   ];
   return (
     <section id="authors" className="authors-section">
@@ -42,17 +46,16 @@ const Authors = () => {
         <div className="authors-content">
           <h2>AUTORAIS</h2>
           
+          
           <p>    
               As músicas "Menina Pequena" e "Xote Cacheado" de Dom Preto estão disponíveis em
               todas as plataformas digitais. Ambas mostram a diversidade musical do artista, com a
               delicadeza de "Menina Pequena" e a energia dançante de "Xote Cacheado", refletindo
               sua identidade única e conquistando ouvintes em todo o Brasil.
           </p>
-          <p>
-            Nossa missão é entregar valor real aos clientes, unindo estética impecável com código robusto e escalável.
-          </p>
           <a href="#contact" className="btn btn-secondary">Saiba Mais</a>
         </div>
+        
       </div>
     </section>
 

@@ -7,22 +7,35 @@
   --white: #ffffff;
   --gray-border: #ddd;
   --transition-speed: 0.3s;
+  --container-width: 1200px;
+  --section-padding: 80px;
 }
 
+/* Reset global */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
-  scroll-behavior: smooth; /* Scroll suave global */
+  scroll-behavior: smooth;
+  font-size: 16px;
 }
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
   color: var(--text-color);
+  background-color: var(--white);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 ul {
@@ -32,9 +45,97 @@ ul {
 a {
   text-decoration: none;
   color: inherit;
+  transition: color var(--transition-speed);
 }
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
+}
+
+/* Container padrão */
+.container {
+  width: 100%;
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Seções */
+section {
+  width: 100%;
+  padding: var(--section-padding) 0;
+}
+
+/* Títulos e textos */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+p {
+  word-break: break-word;
+}
+
+/* Botões e inputs */
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+  :root {
+    --section-padding: 70px;
+  }
+
+  .container {
+    padding: 0 16px;
+  }
+
+  html {
+    font-size: 15px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  :root {
+    --section-padding: 60px;
+  }
+
+  .container {
+    padding: 0 14px;
+  }
+
+  html {
+    font-size: 15px;
+  }
+
+  body {
+    line-height: 1.5;
+  }
+}
+
+/* Celulares pequenos */
+@media (max-width: 480px) {
+  :root {
+    --section-padding: 50px;
+  }
+
+  .container {
+    padding: 0 12px;
+  }
+
+  html {
+    font-size: 14px;
+  }
 }

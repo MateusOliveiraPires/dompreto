@@ -35,9 +35,6 @@ Led Zeppelin e James Brown, Dom Preto traduz a alma das montanhas mineiras em su
 sonoridade autêntica, conectando diferentes estilos com sua voz marcante e carisma
 singular.
           </p>
-          <p>
-            Nossa missão é entregar valor real aos clientes, unindo estética impecável com código robusto e escalável.
-          </p>
           <a href="#festivals" className="btn btn-secondary">Saiba Mais</a>
         </div>
       </div>

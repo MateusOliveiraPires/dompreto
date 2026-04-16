@@ -64,9 +64,6 @@ eventos como Boa Vista Soul Jazz, Dipanas Blues, Chapadas Blues, Horizonte Blues
 na final do Tiradentes Jazz Blues Festival, sempre com sua voz marcante e
 performance envolvente.
           </p>
-          <p>
-            Nossa missão é entregar valor real aos clientes, unindo estética impecável com código robusto e escalável.
-          </p>
           <a href="#clipping" className="btn btn-secondary">Saiba Mais</a>
         </div>
       </div>

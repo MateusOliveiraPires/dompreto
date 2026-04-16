@@ -53,9 +53,6 @@ const Appearances = () => {
               autoral. Também foi destaque na Rádio Extra e Rádio Inconfidência, consolidando
               sua trajetória no cenário musical alternativo.
           </p>
-          <p>
-            Nossa missão é entregar valor real aos clientes, unindo estética impecável com código robusto e escalável.
-          </p>
           <a href="#authors" className="btn btn-secondary">Saiba Mais</a>
         </div>
       </div>
