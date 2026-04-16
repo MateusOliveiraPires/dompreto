@@ -5,7 +5,6 @@ const menuItems = [
   { label: 'Home', href: '#hero' },
   { label: 'Sobre', href: '#about' },
   { label: 'Festivais', href: '#festivals' },
-  { label: 'Clipping', href: '#clipping' },
   { label: 'Mídia', href: '#appearances' },
   { label: 'Autorais', href: '#authors' },
   { label: 'Contato', href: '#contact' },

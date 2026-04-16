@@ -6,7 +6,6 @@ import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import About from './components/About/About';
 import Festivals from './components/Festivals/Festivals';
-import Clipping from './components/Clipping/Clipping';
 import Appearances from './components/Appearances/Appearances';
 import Authors from './components/Authors/Authors';
 import Contact from './components/Contact/Contact';
@@ -21,7 +20,6 @@ function App() {
         <Hero />
         <About />
         <Festivals />
-        <Clipping />
         <Appearances/>
         <Authors />      
         <Contact />
